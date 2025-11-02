@@ -43,9 +43,9 @@ A 7-node network has only $2^7 = 128$ possible states. A 127-cycle is a *maximal
 
 ---
 
-### My Role and Contributions
+### My role/contributions
 
-As a high school researcher on this team since September 2024, I've been deeply involved in all aspects of the project. My specific contributions include:
+As a researcher on this team since September 2024, I've been very involved in all aspects of the project. My specific contributions include:
 *   **Developing and running computational experiments** using Python to analyze thousands of network configurations
 *   **Analyzing experimental data** to identify patterns, formulate hypotheses, and validate our theoretical findings
 *   **Co-authoring the formal mathematical proofs** for our key results in a collaborative LaTeX document, including the rigorous proofs for the combinatorial identity at the heart of the simple N-cycle problem.
@@ -57,7 +57,7 @@ My actual repository (private) contains the core code and analysis for our resea
 *   `bn_utils.py` & `attractor_analysis.py`: Utility scripts containing the core functions for generating networks and finding attractors
 *   `BN_Experiment_Analysis.ipynb`: A Jupyter Notebook containing the data, visualizations, and formal proofs for our key findings, including the complete proof for the maximal length cycle mechanism
 
-Thank you for your interest in my research.
+Thank you for your interest in my research :)
 
 Sincerely,
 **Julian Vignes**
